@@ -1,0 +1,14 @@
+{
+    "PHASE" : ["alpha", "beta", "test"],
+    "INFRA" : ["logs", "download", "staging", "dev", "www", "web", "cdn", "images", "blog", "vpn", "website", "files", "os", "pub",
+        "files", "app", "public", "scripts", "static", "git", "devs", "stats", "db", "wiki", "aws", "gcp", "bucket", "sandbox", "server",
+        "temp", "build", "builds", "downloads", "log", "backup", "cassandra", "demo", "api", "docs", "dashboard", "doc", "ops", "backend",
+        "media", "cache", "screenshots", "media", "pics", "android", "cms", "content", "img", "uploads", "assets", "backups"],
+    "WEB": ["videos", "tech", "portal", "online", "photos", "hub", "upload", "lab", "apps", "email", "audio", "photo", "id", "user", 
+        "pdf", "software", "podcast", "wordpress", "hosting", "templates", "webapp", "logos", "fonts", "ios", "c rypto", "logo", "dist"],
+    "DEV": ["stack", "src", "repo", "developer", "playground", "hash", "admin", "js", "bot", "sys", "cli", "console", "firmware"],
+    "TLD": ["com", "net", "org", "io", "edu", "uk","cn", "eu", "gov"],
+    "CITY": ["chicago", "houston", "nyc", "dallas", "vegas", "phoenix", "london", "atlanta", "denver", "orlando", "tokyo", "seattle", "sydney", "charlotte", 
+    "boston", "brooklyn", "columbus", "portland", "philadelphia", "singapore"],
+    "ST_ABBREV": ["tx", "fl", "ny", "wa", "oh", "nj", "dc", "ct", "ut", "ks", "ak", "nv", "nd", "nh"]    
+}
