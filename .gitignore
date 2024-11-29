@@ -4,3 +4,4 @@ lambda_indexer/event.json
 lambda_indexer/response.json
 .vscode
 bucket/
+__pycache__
