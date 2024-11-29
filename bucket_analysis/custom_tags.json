@@ -4,8 +4,10 @@
         "app", "public", "script", "static", "git", "stat", "db", "wiki", "aws", "gcp", "bucket", "sandbox", "server",
         "temp", "build", "log", "backup", "cassandra", "demo", "api", "dashboard", "doc", "ops", "backend", "archive",
         "media", "cache", "screenshot", "media", "pic", "cms", "content", "img", "asset", "tmp"],
-    "WEB": ["click", "update", "vid", "template", "datum", "crm", "inc", "analysis", "meta", "html", "geo", "info", "tracker", "widget", "portfolio", "video", "tech", "portal", "online", "hub", "upload", "lab", "email", "audio", "photo", "id", "user", 
+    "WEB": ["click", "update", "vid", "template", "datum", "crm", "inc", "analysis", "meta", "html", "geo", "info", "tracker", 
+        "widget", "portfolio", "video", "tech", "portal", "online", "hub", "upload", "lab", "email", "audio", "photo", "id", "user", 
         "pdf", "software", "podcast", "wordpress", "hosting", "templates", "webapp", "font", "ios", "crypto", "logo", "dist", "corp"],
-    "DEV": ["android", "uid", "virtual", "stack", "src", "repo", "developer", "playground", "hash", "admin", "js", "bot", "sys", "cli", "console", "firmware"],
+    "DEV": ["android", "uid", "virtual", "stack", "src", "repo", "developer", "playground", "hash", "admin", "js", "bot", "sys", 
+        "cli", "console", "firmware"],
     "TLD": ["com", "net", "org", "io", "edu", "uk","cn", "eu", "gov"]
 }

@@ -26,7 +26,9 @@ class MarkovChain:
         states.append(str(current_state))
 
         for i in range(self._iteration_count):
-            transition_probs = self._transitions[current_state]
+            transition_probs = self._transitions.get(current_state, None)
+            if transition_probs == None:
+                continue # 
             next_state = np.random.choice(list(transition_probs.keys()), p=list(transition_probs.values()))
             current_state = str(next_state)
             states.append(current_state)
