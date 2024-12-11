@@ -1,7 +1,7 @@
 # ~~Needles~~ Buckets in a Haystack
 Rowan University
 
-CS 026205 - Data Quality and Web/Text Mining
+CS 02625 - Data Quality and Web/Text Mining
 
 ## S3 Bucket Name Analysis and Generation
 
